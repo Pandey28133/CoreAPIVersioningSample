@@ -19,3 +19,6 @@ E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\
 E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\netcoreapp3.1\CoreAPIVersioning.dll
 E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\netcoreapp3.1\CoreAPIVersioning.pdb
 E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\netcoreapp3.1\CoreAPIVersioning.genruntimeconfig.cache
+E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\netcoreapp3.1\CoreAPIVersioning.MvcApplicationPartsAssemblyInfo.cs
+E:\Work\Learning\DotNetCore\CoreAPIVersioningSample\CoreAPIVersioning\obj\Debug\netcoreapp3.1\CoreAPIVersioning.csproj.CopyComplete
